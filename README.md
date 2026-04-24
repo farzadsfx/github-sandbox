@@ -49,7 +49,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://example.com/file.zip
+download: https://github.com/2dust/v2rayN/releases/download/7.21.0/v2rayN-linux-arm64.deb
 ```
 
 ```
