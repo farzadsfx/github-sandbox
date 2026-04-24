@@ -71,7 +71,7 @@ download-zip: URL1 URL2 URL3
 ```
 download-zip: https://example.com/file.zip
 ```
-download-zip:  https://github.com/2dust/v2rayN/releases/download/7.21.0/v2rayN-linux-arm64.deb
+download-zip: https://github.com/2dust/v2rayN/releases/download/7.21.0/v2rayN-linux-arm64.deb
 ```
 download-zip: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
 ```
